@@ -1,0 +1,49 @@
+@font-face { font-family: Vrdznagir; src: url('../fonts/Vrdznagir.otf'); } 
+@font-face { font-family: Nasa; src: url('../fonts/NasaFont.otf'); } 
+@font-face { font-family: Zbans; src: url('../fonts/Braind\ Zbans.otf'); } 
+@font-face { font-family: Amar; src: url('../fonts/Amar.ttf'); }
+@font-face { font-family: Amanor; src: url('../fonts/BraindAmanor.otf'); } 
+@font-face { font-family: Bardi; src: url('../fonts/FMBF_Bardi.ttf'); }
+@font-face { font-family: NorTar; src: url('../fonts/NorTar.otf'); }
+@font-face { font-family: Alegro; src: url('../fonts/ArmAllegroU.ttf'); }
+@font-face { font-family: Garun; src: url('../fonts/ArmeniapediaGarun.ttf'); }
+@font-face { font-family: Gyumri; src: url('../fonts/BraindGyumri.otf'); }
+@font-face { font-family: Artsakh; src: url('../fonts/Artsakh-Font\ .otf'); }
+
+h1 {
+    font-size: 100px;
+    font-weight: 100;
+}
+#Vrdznagir h1{
+    font-family: Vrdznagir;
+} 
+#Nasa h1{
+    font-family: Nasa;
+}
+#Zbans h1{
+    font-family: Zbans;
+} 
+#Amar h1{
+    font-family: Amar;
+} 
+#Amanor h1{
+    font-family: Amanor;
+} 
+#Bardi h1{
+    font-family: Bardi;
+}
+#NorTar h1{
+    font-family: NorTar;
+}  
+#Alegro h1{
+    font-family: Alegro;
+}
+#Garun h1{
+    font-family: Garun;
+}
+#Gyumri h1{
+    font-family: Gyumri;
+}
+#Artsakh h1{
+    font-family: Artsakh;
+}
